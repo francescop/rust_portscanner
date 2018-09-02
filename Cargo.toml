@@ -1,0 +1,6 @@
+[package]
+name = "port_scanner"
+version = "0.1.0"
+authors = ["Palazzini, Francesco <palazzini.francesco@gmail.com>"]
+
+[dependencies]
